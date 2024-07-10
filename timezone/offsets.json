@@ -1,0 +1,769 @@
+{
+  "version": "2024",
+  "data": {
+    "+00:00": {
+      "countries": [
+        "Africa/Ouagadougou",
+        "C™te D'ivoire",
+        "Gambia",
+        "Ghana",
+        "Guinea",
+        "Guinea-Bissau",
+        "Iceland",
+        "Liberia",
+        "Mali",
+        "Mauritania",
+        "Morocco",
+        "Portugal",
+        "Saint Helena#COMMA# Ascension and Tristan Da Cunha",
+        "Sao Tome and Principe",
+        "Senegal",
+        "Sierra Leone",
+        "Togo",
+        "Western Sahara"
+      ],
+      "name": "+00:00",
+      "zones": [
+        "Africa/Ouagadougou",
+        "Africa/Abidjan",
+        "Africa/Banjul",
+        "Africa/Accra",
+        "Africa/Conakry",
+        "Africa/Bissau",
+        "Atlantic/Reykjavik",
+        "Africa/Monrovia",
+        "Africa/Bamako",
+        "Africa/Nouakchott",
+        "Africa/Casablanca",
+        "Atlantic/Azores",
+        "Atlantic/St_Helena",
+        "Africa/Sao_Tome",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/El_Aaiun"
+      ]
+    },
+    "+01:00": {
+      "countries": [
+        "Africa/Algiers",
+        "Angola",
+        "Benin",
+        "Cameroon",
+        "Central African Republic",
+        "Chad",
+        "Congo",
+        "Congo#COMMA# the Democratic Republic of The",
+        "Equatorial Guinea",
+        "Faroe Islands",
+        "Gabon",
+        "Guernsey",
+        "Ireland",
+        "Isle of Man",
+        "Jersey",
+        "Namibia",
+        "Niger",
+        "Nigeria",
+        "Portugal",
+        "Spain",
+        "Tunisia",
+        "United Kingdom"
+      ],
+      "name": "+01:00",
+      "zones": [
+        "Africa/Algiers",
+        "Africa/Luanda",
+        "Africa/Porto-Novo",
+        "Africa/Lagos",
+        "Africa/Bangui",
+        "Africa/Ndjamena",
+        "Africa/Brazzaville",
+        "Africa/Kinshasa",
+        "Africa/Malabo",
+        "Atlantic/Faeroe",
+        "Africa/Libreville",
+        "Europe/Guernsey",
+        "Europe/Dublin",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Africa/Windhoek",
+        "Africa/Niamey",
+        "Atlantic/Madeira",
+        "Europe/Lisbon",
+        "Atlantic/Canary",
+        "Africa/Tunis",
+        "Europe/London"
+      ]
+    },
+    "+02:00": {
+      "countries": [
+        "Europe/Tirane",
+        "Andorra",
+        "Austria",
+        "Belgium",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Burundi",
+        "Congo#COMMA# the Democratic Republic of The",
+        "Croatia",
+        "Czech Republic",
+        "Denmark",
+        "France",
+        "Germany",
+        "Gibraltar",
+        "Holy See (Vatican City State)",
+        "Hungary",
+        "Italy",
+        "Lesotho",
+        "Libya",
+        "Liechtenstein",
+        "Luxembourg",
+        "Macedonia#COMMA# the Former Yugoslav Republic Of",
+        "Malawi",
+        "Malta",
+        "Monaco",
+        "Montenegro",
+        "Mozambique",
+        "Netherlands",
+        "Norway",
+        "Poland",
+        "San Marino",
+        "Serbia",
+        "Slovakia",
+        "Slovenia",
+        "South Africa",
+        "Spain",
+        "Svalbard and Jan Mayen",
+        "Swaziland",
+        "Sweden",
+        "Switzerland",
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "name": "+02:00",
+      "zones": [
+        "Europe/Tirane",
+        "Europe/Andorra",
+        "Europe/Vienna",
+        "Europe/Brussels",
+        "Europe/Sarajevo",
+        "Africa/Gaborone",
+        "Africa/Bujumbura",
+        "Africa/Lubumbashi",
+        "Europe/Zagreb",
+        "Europe/Prague",
+        "Europe/Copenhagen",
+        "Europe/Paris",
+        "Europe/Berlin",
+        "Europe/Gibraltar",
+        "Europe/Vatican",
+        "Europe/Budapest",
+        "Europe/Rome",
+        "Africa/Maseru",
+        "Africa/Tripoli",
+        "Europe/Vaduz",
+        "Europe/Luxembourg",
+        "Europe/Skopje",
+        "Africa/Blantyre",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Podgorica",
+        "Africa/Maputo",
+        "Europe/Amsterdam",
+        "Europe/Oslo",
+        "Europe/Warsaw",
+        "Europe/San_Marino",
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Ljubljana",
+        "Africa/Johannesburg",
+        "Europe/Madrid",
+        "Arctic/Longyearbyen",
+        "Africa/Mbabane",
+        "Europe/Stockholm",
+        "Europe/Zurich",
+        "Africa/Lusaka",
+        "Africa/Harare"
+      ]
+    },
+    "+03:00": {
+      "countries": [
+        "Europe/Mariehamn",
+        "Bahrain",
+        "Belarus",
+        "Bulgaria",
+        "Comoros",
+        "Cyprus",
+        "Djibouti",
+        "Egypt",
+        "Eritrea",
+        "Estonia",
+        "Ethiopia",
+        "Finland",
+        "Greece",
+        "Iraq",
+        "Israel",
+        "Jordan",
+        "Kenya",
+        "Kuwait",
+        "Latvia",
+        "Lebanon",
+        "Lithuania",
+        "Madagascar",
+        "Mayotte",
+        "Moldova#COMMA# Republic Of",
+        "Palestine#COMMA# State Of",
+        "Qatar",
+        "Romania",
+        "Russian Federation",
+        "Saudi Arabia",
+        "Somalia",
+        "Sudan",
+        "Syrian Arab Republic",
+        "Tanzania#COMMA# United Republic Of",
+        "Turkey",
+        "Uganda",
+        "Ukraine",
+        "Yemen"
+      ],
+      "name": "+03:00",
+      "zones": [
+        "Europe/Mariehamn",
+        "Asia/Bahrain",
+        "Europe/Minsk",
+        "Europe/Sofia",
+        "Indian/Comoro",
+        "Asia/Nicosia",
+        "Africa/Djibouti",
+        "Africa/Cairo",
+        "Africa/Asmera",
+        "Europe/Tallinn",
+        "Africa/Addis_Ababa",
+        "Europe/Helsinki",
+        "Europe/Athens",
+        "Asia/Baghdad",
+        "Asia/Jerusalem",
+        "Asia/Amman",
+        "Africa/Nairobi",
+        "Asia/Kuwait",
+        "Europe/Riga",
+        "Asia/Beirut",
+        "Europe/Vilnius",
+        "Indian/Antananarivo",
+        "Indian/Mayotte",
+        "Europe/Chisinau",
+        "Asia/Gaza",
+        "Asia/Qatar",
+        "Europe/Bucharest",
+        "Europe/Kaliningrad",
+        "Asia/Riyadh",
+        "Africa/Mogadishu",
+        "Africa/Khartoum",
+        "Asia/Damascus",
+        "Africa/Dar_es_Salaam",
+        "Asia/Istanbul",
+        "Africa/Kampala",
+        "Europe/Kiev",
+        "Asia/Aden"
+      ]
+    },
+    "+04:00": {
+      "countries": [
+        "Asia/Tbilisi",
+        "Mauritius",
+        "Oman",
+        "RŽunion",
+        "Russian Federation",
+        "Seychelles",
+        "United Arab Emirates"
+      ],
+      "name": "+04:00",
+      "zones": [
+        "Asia/Tbilisi",
+        "Indian/Mauritius",
+        "Asia/Muscat",
+        "Indian/Reunion",
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Indian/Mahe",
+        "Asia/Dubai"
+      ]
+    },
+    "+04:30": {
+      "countries": ["Asia/Kabul", "Iran#COMMA# Islamic Republic Of"],
+      "name": "+04:30",
+      "zones": ["Asia/Kabul", "Asia/Tehran"]
+    },
+    "+05:00": {
+      "countries": [
+        "Asia/Yerevan",
+        "Azerbaijan",
+        "French Southern Territories",
+        "Kazakhstan",
+        "Maldives",
+        "Pakistan",
+        "Tajikistan",
+        "Turkmenistan",
+        "Uzbekistan"
+      ],
+      "name": "+05:00",
+      "zones": [
+        "Asia/Yerevan",
+        "Asia/Baku",
+        "Indian/Kerguelen",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Oral",
+        "Indian/Maldives",
+        "Asia/Karachi",
+        "Asia/Dushanbe",
+        "Asia/Ashgabat",
+        "Asia/Tashkent"
+      ]
+    },
+    "+05:30": {
+      "countries": ["Asia/Calcutta", "Sri Lanka"],
+      "name": "+05:30",
+      "zones": ["Asia/Calcutta", "Asia/Colombo"]
+    },
+    "+05:45": {
+      "countries": ["Asia/Katmandu"],
+      "name": "+05:45",
+      "zones": ["Asia/Katmandu"]
+    },
+    "+06:00": {
+      "countries": [
+        "Asia/Thimphu",
+        "British Indian Ocean Territory",
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Russian Federation"
+      ],
+      "name": "+06:00",
+      "zones": [
+        "Asia/Thimphu",
+        "Indian/Chagos",
+        "Asia/Almaty",
+        "Asia/Qyzylorda",
+        "Asia/Bishkek",
+        "Asia/Yekaterinburg"
+      ]
+    },
+    "+06:30": {
+      "countries": ["Indian/Cocos", "Myanmar"],
+      "name": "+06:30",
+      "zones": ["Indian/Cocos", "Asia/Rangoon"]
+    },
+    "+07:00": {
+      "countries": [
+        "Asia/Dhaka",
+        "Cambodia",
+        "Christmas Island",
+        "Indonesia",
+        "Lao People's Democratic Republic",
+        "Mongolia",
+        "Russian Federation",
+        "Thailand",
+        "Timor-Leste",
+        "Viet Nam"
+      ],
+      "name": "+07:00",
+      "zones": [
+        "Asia/Dhaka",
+        "Asia/Phnom_Penh",
+        "Indian/Christmas",
+        "Asia/Jakarta",
+        "Asia/Vientiane",
+        "Asia/Hovd",
+        "Asia/Novosibirsk",
+        "Asia/Omsk",
+        "Asia/Bangkok"
+      ]
+    },
+    "+08:00": {
+      "countries": [
+        "Australia/West",
+        "Brunei Darussalam",
+        "China",
+        "Hong Kong",
+        "Indonesia",
+        "Macao",
+        "Malaysia",
+        "Mongolia",
+        "Philippines",
+        "Russian Federation",
+        "Singapore",
+        "Taiwan#COMMA# Province of China"
+      ],
+      "name": "+08:00",
+      "zones": [
+        "Australia/West",
+        "Asia/Brunei",
+        "Asia/Chongqing",
+        "Asia/Hong_Kong",
+        "Asia/Ujung_Pandang",
+        "Asia/Macao",
+        "Asia/Kuala_Lumpur",
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar",
+        "Asia/Manila",
+        "Asia/Krasnoyarsk",
+        "Asia/Singapore",
+        "Asia/Taipei"
+      ]
+    },
+    "+09:00": {
+      "countries": [
+        "Asia/Jayapura",
+        "Japan",
+        "Korea#COMMA# Democratic People's Republic Of",
+        "Korea#COMMA# Republic Of",
+        "Palau",
+        "Russian Federation"
+      ],
+      "name": "+09:00",
+      "zones": [
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Asia/Pyongyang",
+        "Asia/Seoul",
+        "Pacific/Palau",
+        "Asia/Irkutsk"
+      ]
+    },
+    "+09:30": {
+      "countries": ["Australia/North", "Australia"],
+      "name": "+09:30",
+      "zones": ["Australia/North", "Australia/South"]
+    },
+    "+10:00": {
+      "countries": [
+        "Australia/Canberra",
+        "Australia",
+        "Guam",
+        "Micronesia#COMMA# Federated States Of",
+        "Northern Mariana Islands",
+        "Papua New Guinea",
+        "Russian Federation"
+      ],
+      "name": "+10:00",
+      "zones": [
+        "Australia/Canberra",
+        "Australia/NSW",
+        "Australia/Queensland",
+        "Australia/Tasmania",
+        "Australia/Victoria",
+        "Pacific/Guam",
+        "Pacific/Truk",
+        "Pacific/Yap",
+        "Pacific/Saipan",
+        "Pacific/Port_Moresby",
+        "Asia/Yakutsk"
+      ]
+    },
+    "+11:00": {
+      "countries": [
+        "Pacific/Kosrae",
+        "Micronesia#COMMA# Federated States Of",
+        "New Caledonia",
+        "Russian Federation",
+        "Solomon Islands",
+        "Vanuatu"
+      ],
+      "name": "+11:00",
+      "zones": [
+        "Pacific/Kosrae",
+        "Pacific/Ponape",
+        "Pacific/Noumea",
+        "Asia/Vladivostok",
+        "Pacific/Guadalcanal",
+        "Pacific/Efate"
+      ]
+    },
+    "+11:30": {
+      "countries": ["Pacific/Norfolk"],
+      "name": "+11:30",
+      "zones": ["Pacific/Norfolk"]
+    },
+    "+12:00": {
+      "countries": [
+        "Pacific/Fiji",
+        "Kiribati",
+        "Marshall Islands",
+        "Nauru",
+        "New Zealand",
+        "Russian Federation",
+        "Tuvalu",
+        "Wallis and Futuna"
+      ],
+      "name": "+12:00",
+      "zones": [
+        "Pacific/Fiji",
+        "Pacific/Tarawa",
+        "Pacific/Nauru",
+        "Pacific/Auckland",
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Pacific/Funafuti",
+        "Pacific/Wallis"
+      ]
+    },
+    "+12:45": {
+      "countries": ["Pacific/Chatham"],
+      "name": "+12:45",
+      "zones": ["Pacific/Chatham"]
+    },
+    "+13:00": {
+      "countries": ["Pacific/Enderbury", "Tonga"],
+      "name": "+13:00",
+      "zones": ["Pacific/Enderbury", "Pacific/Tongatapu"]
+    },
+    "+14:00": {
+      "countries": ["Pacific/Kiritimati"],
+      "name": "+14:00",
+      "zones": ["Pacific/Kiritimati"]
+    },
+    "-01:00": {
+      "countries": ["Atlantic/Cape_Verde"],
+      "name": "-01:00",
+      "zones": ["Atlantic/Cape_Verde"]
+    },
+    "-02:00": {
+      "countries": [
+        "America/Noronha",
+        "Greenland",
+        "Saint Pierre and Miquelon",
+        "South Georgia and the South Sandwich Islands"
+      ],
+      "name": "-02:00",
+      "zones": [
+        "America/Noronha",
+        "America/Godthab",
+        "America/Miquelon",
+        "Atlantic/South_Georgia"
+      ]
+    },
+    "-02:30": {
+      "countries": ["America/St_Johns"],
+      "name": "-02:30",
+      "zones": ["America/St_Johns"]
+    },
+    "-03:00": {
+      "countries": [
+        "America/Argentina/Buenos_Aires",
+        "Argentina",
+        "Bermuda",
+        "Brazil",
+        "Canada",
+        "French Guiana",
+        "Suriname",
+        "Uruguay"
+      ],
+      "name": "-03:00",
+      "zones": [
+        "America/Argentina/Buenos_Aires",
+        "America/Argentina/Catamarca",
+        "America/Argentina/Cordoba",
+        "America/Argentina/Jujuy",
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Mendoza",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/San_Juan",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "Atlantic/Bermuda",
+        "America/Araguaina",
+        "America/Bahia",
+        "America/Belem",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Sao_Paulo",
+        "America/Halifax",
+        "America/Cayenne",
+        "America/Paramaribo",
+        "America/Montevideo"
+      ]
+    },
+    "-04:00": {
+      "countries": [
+        "America/Anguilla",
+        "Antigua and Barbuda",
+        "Aruba",
+        "Bahamas",
+        "Barbados",
+        "Bolivia#COMMA# Plurinational State Of",
+        "Brazil",
+        "Canada",
+        "Chile",
+        "Cuba",
+        "Dominica",
+        "Dominican Republic",
+        "Falkland Islands (Malvinas)",
+        "Grenada",
+        "Guadeloupe",
+        "Guyana",
+        "Martinique",
+        "Montserrat",
+        "Paraguay",
+        "Puerto Rico",
+        "Saint Kitts and Nevis",
+        "Saint Lucia",
+        "Saint Vincent and the Grenadines",
+        "Trinidad and Tobago",
+        "Turks and Caicos Islands",
+        "United States",
+        "Virgin Islands#COMMA# British",
+        "Virgin Islands#COMMA# U.s."
+      ],
+      "name": "-04:00",
+      "zones": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Nassau",
+        "America/Barbados",
+        "America/La_Paz",
+        "America/Boa_Vista",
+        "America/Campo_Grande",
+        "America/Cuiaba",
+        "America/Manaus",
+        "America/Porto_Velho",
+        "America/Rio_Branco",
+        "America/Montreal",
+        "America/Toronto",
+        "Chile/Continental",
+        "America/Havana",
+        "America/Dominica",
+        "America/Santo_Domingo",
+        "Atlantic/Stanley",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Asuncion",
+        "America/Puerto_Rico",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Vincent",
+        "America/Port_of_Spain",
+        "America/Grand_Turk",
+        "America/Indianapolis",
+        "America/New_York",
+        "America/Virgin",
+        "America/Tortola",
+        "America/St_Thomas"
+      ]
+    },
+    "-04:30": {
+      "countries": ["America/Caracas"],
+      "name": "-04:30",
+      "zones": ["America/Caracas"]
+    },
+    "-05:00": {
+      "countries": [
+        "America/Rankin_Inlet",
+        "Canada",
+        "Cayman Islands",
+        "Colombia",
+        "Ecuador",
+        "Haiti",
+        "Jamaica",
+        "Mexico",
+        "Panama",
+        "Peru",
+        "United States"
+      ],
+      "name": "-05:00",
+      "zones": [
+        "America/Rankin_Inlet",
+        "America/Winnipeg",
+        "America/Cayman",
+        "America/Bogota",
+        "America/Guayaquil",
+        "America/Port-au-Prince",
+        "America/Jamaica",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey",
+        "America/Panama",
+        "America/Lima",
+        "America/Chicago"
+      ]
+    },
+    "-06:00": {
+      "countries": [
+        "America/Belize",
+        "Canada",
+        "Costa Rica",
+        "Ecuador",
+        "El Salvador",
+        "Guatemala",
+        "Honduras",
+        "Mexico",
+        "Nicaragua",
+        "United States"
+      ],
+      "name": "-06:00",
+      "zones": [
+        "America/Belize",
+        "America/Edmonton",
+        "America/Regina",
+        "America/Yellowknife",
+        "America/Costa_Rica",
+        "Pacific/Galapagos",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Tegucigalpa",
+        "America/Chihuahua",
+        "America/Mazatlan",
+        "America/Managua",
+        "America/Denver"
+      ]
+    },
+    "-07:00": {
+      "countries": ["America/Vancouver", "Canada", "Mexico", "United States"],
+      "name": "-07:00",
+      "zones": [
+        "America/Vancouver",
+        "America/Whitehorse",
+        "America/Hermosillo",
+        "America/Tijuana",
+        "America/Los_Angeles",
+        "America/Phoenix"
+      ]
+    },
+    "-08:00": {
+      "countries": ["Pacific/Pitcairn", "United States"],
+      "name": "-08:00",
+      "zones": ["Pacific/Pitcairn", "America/Anchorage"]
+    },
+    "-10:00": {
+      "countries": [
+        "Pacific/Rarotonga",
+        "French Polynesia",
+        "Tokelau",
+        "United States"
+      ],
+      "name": "-10:00",
+      "zones": [
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti",
+        "Pacific/Fakaofo",
+        "Pacific/Honolulu"
+      ]
+    },
+    "-11:00": {
+      "countries": ["US/Samoa", "Niue", "Samoa"],
+      "name": "-11:00",
+      "zones": ["US/Samoa", "Pacific/Niue", "Pacific/Samoa"]
+    },
+    "UNKNOWN": {
+      "countries": ["Africa/Kigali"],
+      "name": "UNKNOWN",
+      "zones": ["Africa/Kigali"]
+    }
+  }
+}
